@@ -1,0 +1,14 @@
+<a href="roboto.css" style="display: none;"></a>
+<script>
+(function () {
+	'use strict';
+
+	var importDoc = document.currentScript.ownerDocument;
+	var url = importDoc.querySelector('a').href;
+
+	var link = document.createElement('link');
+	link.rel = 'stylesheet';
+	link.href = url;
+	document.head.appendChild(link);
+})();
+</script>

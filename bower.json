@@ -1,0 +1,18 @@
+{
+  "name": "font-roboto",
+  "description": "An HTML Import for Roboto",
+  "keywords": [
+    "font",
+    "roboto"
+  ],
+  "authors": [
+    "Héctor Molinero Fernández <hector@molinero.xyz>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/zant95/font-roboto",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zant95/font-roboto.git"
+  },
+  "main": "roboto.html"
+}
